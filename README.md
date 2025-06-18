@@ -37,8 +37,7 @@ This app does not knowingly collect any personal information from children under
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-📧 **your-email@example.com**  
-（You can replace this with your real contact email）
+📧 ** 
 
 ---
 
