@@ -1,5 +1,3 @@
-# Privacy Policy for XiaolongbaoApp
-
 **Last updated: July 25, 2025**
 
 Thank you for using **XiaolongbaoApp** — an educational application focused on delivering high-quality technical articles in the areas of computer science, artificial intelligence, GPU architecture, and related topics.
