@@ -1,44 +1,71 @@
-# XiaolongbaoApp Privacy Policy
+# Privacy Policy for XiaolongbaoApp
 
-Thank you for using XiaolongbaoApp.  
-We value your privacy and are committed to protecting it.
+**Last updated: July 25, 2025**
 
----
+Thank you for using **XiaolongbaoApp** — an educational application focused on delivering high-quality technical articles in the areas of computer science, artificial intelligence, GPU architecture, and related topics.
 
-## Data Collection
-
-XiaolongbaoApp does **not** collect, store, or share any personal data.
-
-- No login is required.
-- No personal identifiers such as name, email, phone number, or address are collected.
-- The app does not access your camera, microphone, contacts, photo library, or location.
+We take your privacy seriously. This policy outlines how we handle your information.
 
 ---
 
-## Analytics
+## 1. Data Collection
 
-We do **not** use any third-party analytics services (such as Google Analytics or Firebase) in this app.
+XiaolongbaoApp does **not** collect, store, or process any personal data.
 
----
-
-## Data Sharing
-
-We do not share any data with third parties because no data is collected.
-
----
-
-## Children’s Privacy
-
-This app does not knowingly collect any personal information from children under the age of 13.
+- No login or user account is required.  
+- We do not collect names, email addresses, phone numbers, or physical addresses.  
+- The app does not access your device’s camera, microphone, photo library, contacts, or location.  
+- There are no forms or user-submitted content in the app.
 
 ---
 
-## Contact Us
+## 2. Analytics and Tracking
 
-If you have any questions or concerns about this Privacy Policy, please contact us at:
+We do **not** use any analytics tools or third-party tracking technologies, including but not limited to:
 
-📧 ** 
+- Google Analytics  
+- Firebase Analytics  
+- Crashlytics  
+- Advertising or behavioral tracking tools
+
+Your usage of the app remains completely private and anonymous.
 
 ---
 
-_Last updated: June 17, 2025_
+## 3. Data Sharing
+
+Since we do not collect any user data, there is nothing to share with third parties.
+
+We also do not use any third-party SDKs that transmit information externally.
+
+---
+
+## 4. Children’s Privacy
+
+XiaolongbaoApp does not knowingly collect any information from children under the age of 13.  
+As no personal data is collected, the app is safe for users of all ages.
+
+---
+
+## 5. Your Rights
+
+Because we do not collect any personal data, there is nothing to view, delete, or correct.  
+However, if you have any questions or concerns, we are happy to respond.
+
+---
+
+## 6. Contact Us
+
+If you have questions about this privacy policy, please contact us at:
+
+📧 **xiaolongbaoapp@protonmail.com**
+
+---
+
+We may update this policy from time to time to reflect changes in app features or legal requirements.  
+Any changes will be posted on this page with an updated date.
+
+---
+
+✅ **No personal data. No tracking. No compromise.**  
+That’s our commitment to you.
