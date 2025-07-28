@@ -7,7 +7,7 @@
   <style>
     body {
       font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-      max-width: 860px;
+      max-width: 900px;
       margin: 60px auto;
       padding: 0 20px;
       line-height: 1.6;
@@ -16,22 +16,42 @@
     h1 {
       color: #4A148C;
       font-size: 2.4em;
-      margin-bottom: 10px;
+      margin-bottom: 0.3em;
     }
     h2 {
       color: #6A1B9A;
       font-size: 1.5em;
       margin-top: 40px;
     }
-    img {
-      max-width: 100%;
-      border-radius: 12px;
-      margin: 20px 0;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    .contact {
+      background: #f3e5f5;
+      border-left: 5px solid #8e24aa;
+      padding: 15px 20px;
+      margin-bottom: 30px;
+      border-radius: 8px;
     }
-    .email {
-      font-size: 1.1em;
-      font-weight: bold;
+    .contact strong {
+      color: #6A1B9A;
+    }
+    .grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+      justify-content: space-between;
+      margin-top: 30px;
+    }
+    .grid img {
+      flex: 1 1 calc(33% - 16px);
+      max-width: calc(33% - 16px);
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.07);
+      height: auto;
+    }
+    @media (max-width: 700px) {
+      .grid img {
+        flex: 1 1 100%;
+        max-width: 100%;
+      }
     }
     .footer {
       margin-top: 40px;
@@ -39,40 +59,37 @@
       color: #777;
       text-align: center;
     }
-    .highlight {
-      font-weight: bold;
-      color: #6A1B9A;
-    }
   </style>
 </head>
 <body>
 
-  <h1>Welcome to Xiao Long Bao App Support</h1>
+  <h1>Xiao Long Bao App – Support</h1>
+
+  <div class="contact">
+    <p><strong>Need help or have feedback?</strong></p>
+    <p>Email us at:  
+      <a href="mailto:xiaolongbaoapp@protonmail.com">xiaolongbaoapp@protonmail.com</a>  
+    </p>
+    <p>We usually respond within 1–2 business days.</p>
+  </div>
 
   <p>
-    Thank you for using <span class="highlight">Xiao Long Bao App</span> — a technical knowledge hub for developers, learners, and enthusiasts.
-    Our app delivers deep-dive articles on <strong>AI, GPUs, system architecture, and software engineering</strong>, all crafted with love for the curious mind.
-  </p>
-
-  <img src="https://raw.githubusercontent.com/xiaolongbaoapp/xiaolongbaoAPP-privacy-policy/main/images/Screenshot%201.png" alt="Xiao Long Bao App Screenshot 1" />
-
-  <p>
-    We strive to provide a smooth, ad-free, and distraction-free learning experience. Whether you’re studying for exams or exploring advanced computing concepts, we’re excited to support your journey.
-  </p>
-
-  <img src="https://raw.githubusercontent.com/xiaolongbaoapp/xiaolongbaoAPP-privacy-policy/main/images/Screenshot%202.png" alt="Xiao Long Bao App Screenshot 2" />
-
-  <h2>Need Help or Want to Reach Us?</h2>
-
-  <p class="email">
-    📧 Email us anytime: <a href="mailto:xiaolongbaoapp@protonmail.com">xiaolongbaoapp@protonmail.com</a>
+    Thank you for using <strong>Xiao Long Bao App</strong> — your gateway to curated, technical knowledge on computer systems, AI, graphics acceleration, and software engineering.  
   </p>
 
   <p>
-    We typically respond within <strong>1–2 business days</strong>. Whether you’re reporting an issue, offering feedback, or suggesting new content, we’d love to hear from you.
+    The app features professionally written content, organized into four categories: <em>AI & Machine Learning</em>, <em>Computer Fundamentals</em>, <em>Graphics & Hardware Acceleration</em>, and <em>Software Introduction</em>.
   </p>
 
-  <img src="https://raw.githubusercontent.com/xiaolongbaoapp/xiaolongbaoAPP-privacy-policy/main/images/Screenshot%203.png" alt="Xiao Long Bao App Screenshot 3" />
+  <p>
+    Designed with clarity and learning in mind, Xiao Long Bao App offers a clean, ad-free, offline-friendly experience for developers, students, and curious minds.
+  </p>
+
+  <div class="grid">
+    <img src="https://raw.githubusercontent.com/xiaolongbaoapp/xiaolongbaoAPP-privacy-policy/main/images/Screenshot%201.png" alt="App Screenshot 1" />
+    <img src="https://raw.githubusercontent.com/xiaolongbaoapp/xiaolongbaoAPP-privacy-policy/main/images/Screenshot%202.png" alt="App Screenshot 2" />
+    <img src="https://raw.githubusercontent.com/xiaolongbaoapp/xiaolongbaoAPP-privacy-policy/main/images/Screenshot%203.png" alt="App Screenshot 3" />
+  </div>
 
   <div class="footer">
     Last updated: July 28, 2025
